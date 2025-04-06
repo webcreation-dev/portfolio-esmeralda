@@ -95,7 +95,7 @@
               </div>
               <div class="space32"></div>
               <div class="main-btn-area" data-aos="fade-up" data-aos-duration="1200">
-                <a href="#">Digitalisons ensemble votre entreprise ! <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                <a href="#">Digitalisons ensemble ! <span><i class="fa-solid fa-arrow-right"></i></span></a>
               </div>
             </div>
           </div>
