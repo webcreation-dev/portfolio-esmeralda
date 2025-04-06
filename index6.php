@@ -38,11 +38,7 @@
             <div class="space18"></div>
             <h3>Esméralda AGBESSY</h3>
             <div class="space16"></div>
-            <p style="text-align: justify"> Diplômée en <strong>Architecture des Logiciels</strong> , j’ai effectué un
-              stage chez Harnix SAS, acquérant une maîtrise avancée de
-              PHP, JavaScript, SQL, ainsi qu’une expérience en conception
-              avec Figma et développement avec ReactJS, React Native et
-              NextJS.</p>
+            <p style="text-align: justify"> Titulaire d'une Licence en <strong>Architecture des Logiciels</strong> et fort de 2 ans d'expérience, j'ai développé des compétences solides en HTML, CSS, JavaScript, React, React Native et Next.js. Je possède également une expérience en conception avec Figma, ainsi que des connaissances de base en PHP, SQL et UML.</p>
             <div class="space32"></div>
             <ul>
               <!-- <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li> -->
