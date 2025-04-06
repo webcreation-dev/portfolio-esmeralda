@@ -33,7 +33,7 @@
               <a class="list-group-item list-group-item-action m-0" href="#list-item-8"><img src="assets/img/icons/home7.svg" alt=""> <span>Contact Us</span></a>
             </div>
             <div class="img1 image-anime reveal">
-              <img src="assets/img/all-images/hero/profile.jpeg" style="height: 500px;" alt="">
+              <img src="assets/img/all-images/hero/profile.jpeg" style="height: 400px;" alt="">
             </div>
             <div class="space18"></div>
             <h3>Esméralda AGBESSY</h3>
