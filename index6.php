@@ -43,9 +43,9 @@
             <ul>
               <!-- <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li> -->
               <!-- <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li> -->
-              <li><a href="https://www.linkedin.com/in/esm%C3%A9ralda-agbessy-3472b9263/" target="_blank"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
-              <li><a href="https://github.com/Esmeraldaagb" target="_blank"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
-              <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li>
+              <li><a href="https://www.linkedin.com/in/esm%C3%A9ralda-agbessy-3472b9263/" target="_blank"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
+              <li><a href="https://github.com/Esmeraldaagb" target="_blank"><img src="assets/img/icons/github.svg" alt=""></a></li>
+              <!-- <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li> -->
             </ul>
             <div class="space44"></div>
             <div class="btn-area1 text-center">
@@ -82,7 +82,7 @@
                       <img src="assets/img/all-images/others/right-com.png" alt="Logo 2" />
                     </div>
                     <div class="logo">
-                      <img src="assets/img/all-images/others/harnix.png" alt="Logo 3" />
+                      <img src="assets/img/all-images/others/benin-cargo.png" alt="Logo 3" />
                     </div>
                     <div class="logo more">2+</div>
                   </div>
