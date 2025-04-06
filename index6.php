@@ -33,26 +33,30 @@
               <a class="list-group-item list-group-item-action m-0" href="#list-item-8"><img src="assets/img/icons/home7.svg" alt=""> <span>Contact Us</span></a>
             </div>
             <div class="img1 image-anime reveal">
-              <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+              <img src="assets/img/all-images/hero/profile.jpeg" alt="">
             </div>
             <div class="space18"></div>
-            <h3>Alex Carry</h3>
+            <h3>Esméralda AGBESSY</h3>
             <div class="space16"></div>
-            <p>Hi, I’m Alex, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences.</p>
+            <p style="text-align: justify"> Diplômée en <strong>Architecture des Logiciels</strong> , j’ai effectué un
+              stage chez Harnix SAS, acquérant une maîtrise avancée de
+              PHP, JavaScript, SQL, ainsi qu’une expérience en conception
+              avec Figma et développement avec ReactJS, React Native et
+              NextJS.</p>
             <div class="space32"></div>
             <ul>
-              <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
-              <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
-              <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
-              <li><a href="#"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
+              <!-- <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li> -->
+              <!-- <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li> -->
+              <li><a href="https://www.linkedin.com/in/esm%C3%A9ralda-agbessy-3472b9263/" target="_blank"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
+              <li><a href="https://github.com/Esmeraldaagb" target="_blank"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
               <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li>
             </ul>
             <div class="space44"></div>
             <div class="btn-area1 text-center">
-              <a href="assets/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
+              <a href="assets/img/all-images/hero/CURRICULUM_VITAE_ESMERALDA AGBESSY.pdf" download class="vl-btn1">TÉLECHARGER LE CV <img src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
-            <p>© 2024 OVRO. All Rights Reserved.</p>
+            <p>© 2024 . Tout droits réservés.</p>
           </div>
       </div>
       <div class="col-lg-8">
@@ -60,13 +64,13 @@
           <!--===== HERO AREA STARTS =======-->
           <div id="list-item-1">
             <div class="hero-heading-area heading1">
-              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Hi, I’m Alex, UI/UX Designer </h5>
+              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Salut, je suis Esméralda AGBESSY  </h5>
               <div class="space24"></div>
-              <h1 data-aos="fade-left" data-aos-duration="900">Designing Intuitive </h1>
+              <h1 data-aos="fade-left" data-aos-duration="900">Développeur Frontend </h1>
               <div class="space24"></div>
-              <h1 class="head" data-aos="fade-left" data-aos-duration="1000">Experiences <span>Inspire</span></h1>
+              <h1 class="head" data-aos="fade-left" data-aos-duration="1000">& UI/UX  <span>Designer</span></h1>
               <div class="space24"></div>
-              <p data-aos="fade-left" data-aos-duration="1100">Your gateway to innovative design, seamless user experiences, and impactful solutions. Turning complex ideas into user-friendly designs. </p>
+              <p data-aos="fade-left" data-aos-duration="1100">Je conçois et développe des interfaces pixel-perfect, alliant ergonomie, performance et esthétique pour offrir une expérience utilisateur optimale. </p>
               <div class="arrow" data-aos="fade-left" data-aos-duration="1200">
                 <a href="#">
                   <img src="assets/img/elements/elements1.png" alt="" class="elements1 keyframe5">
@@ -74,13 +78,24 @@
                 </a>
 
                 <div class="images">
-                  <img src="assets/img/all-images/others/others1.png" alt="">
-                  <p>2k+ reviews <br> (4.90 of 5)</p>
+                  <div class="stacked-logos">
+                    <div class="logo">
+                      <img src="assets/img/all-images/others/harnix.png" alt="Logo 1" />
+                    </div>
+                    <div class="logo">
+                      <img src="assets/img/all-images/others/right-com.png" alt="Logo 2" />
+                    </div>
+                    <div class="logo">
+                      <img src="assets/img/all-images/others/harnix.png" alt="Logo 3" />
+                    </div>
+                    <div class="logo more">2+</div>
+                  </div>
+
                 </div>
               </div>
               <div class="space32"></div>
               <div class="main-btn-area" data-aos="fade-up" data-aos-duration="1200">
-                <a href="#">Lets Work Together <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                <a href="#">Digitalisons ensemble votre entreprise ! <span><i class="fa-solid fa-arrow-right"></i></span></a>
               </div>
             </div>
           </div>
