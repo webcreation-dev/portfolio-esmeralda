@@ -837,18 +837,18 @@
                     <div class="col-lg-7">
                       <div class="boxes-area">
                         <div class="img1">
-                          <img src="assets/img/all-images/portfolio/portfolio-img1.png" alt="">
+                          <img src="assets/img/all-images/hero/profile.jpeg" alt="">
                         </div>
                         <div class="content">
                           <div class="tags-area">
-                            <a href="#">23 April 2024</a>
-                            <a href="#">Alex Ross</a>
+                            <a href="#">08 Avril 2025</a>
+                            <a href="#">AGBESSY Esméralda</a>
                           </div>
-                          <a href="#">Crafting Compelling Designs and Strategic Marketing: A Creative Journey Unveiled</a>
-                          <p>In today's fast-paced digital landscape, the intersection of design and marketing has become increasingly vital for businesses aiming to best captivate audiences and drive success. Crafting compelling designs.</p>
-                          <p class="pera">Psychology and market trends. Through strategic marketing, these an designs are brought to life, leveraging data-driven insights innovative.</p>
+                          <a href="#">Création de designs convaincants et marketing stratégique : un parcours créatif dévoilé</a>
+                          <p>Dans le paysage numérique actuel en constante évolution, l'interaction entre design et marketing est devenue essentielle pour les entreprises qui souhaitent captiver leur public et assurer leur réussite. Créer des designs percutants.</p>
+                          <p class="pera">Psychologie et tendances du marché. Grâce au marketing stratégique, ces concepts prennent vie, s'appuyant sur des données innovantes.</p>
                           <div class="btn-area1">
-                            <a href="contact.php" class="vl-btn1">Get in touch now</a>
+                            <a href="contact.php" class="vl-btn1">Contactez-moi maintenant</a>
                           </div>
                         </div>
                       </div>
@@ -856,27 +856,26 @@
 
                     <div class="col-lg-5">
                       <div class="contact-from-area" data-aos="flip-right" data-aos-duration="1000">
-                        <h3>Leave A Message</h3>
+                        <h3>Laisser un Message</h3>
                        <form action="https://api.web3forms.com/submit" method="POST">
                         <input type="hidden" name="access_key" value="0cd32fff-eda2-4da3-be43-37d47fbb396b">
 
                         <div class="input">
-                            <input type="text" placeholder="Full Name">
+                            <input type="text" placeholder="Nom & Pr&noms">
                           </div>
                           <div class="input">
-                            <input type="number" placeholder="Phone Number" required>
+                            <input type="number" placeholder="Téléphone" required>
                           </div>
                           <div class="input">
-                            <input type="email" placeholder="Email Address" required>
+                            <input type="email" placeholder="Email" required>
                           </div>
                           <div class="input">
                             <select name="country" id="country" class="country-area nice-select6">
-                              <option value="1" data-display="Service Type">Service Type</option>
-                              <option value="">Belgium</option>
-                              <option value="">Brezil</option>
-                              <option value="">Argentina</option>
-                              <option value="">Bangladesh</option>
-                              <option value="">Germany</option>
+                              <option value="1" data-display="Service Type">Type de service</option>
+                              <option value="">Maquette Design</option>
+                              <option value="">Branding</option>
+                              <option value="">Front End</option>
+                             
                             </select>
                           </div>
                           <div class="input">
@@ -884,7 +883,7 @@
                           </div>
                           <div class="space32"></div>
                           <div class="btn-area text-end" data-aos="fade-up" data-aos-duration="1200">
-                            <button type="submit" class="vl-btn1">submit now</button>
+                            <button type="submit" class="vl-btn1">Soumettre</button>
                           </div>
                        </form>
                       </div>
