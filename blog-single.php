@@ -40,14 +40,14 @@
         <div class="sidebar-content">
           <ul>
             <li><a href="#list-item-1">Home</a></li>
-            <li><a href="#list-item-2">About Us</a></li>
+            <li><a href="#list-item-2">Apropos</a></li>
             <li><a href="#list-item-3">service</a></li>
-            <li><a href="#list-item-4">Skill</a></li>
+            <li><a href="#list-item-4">Compétences</a></li>
             <li><a href="#list-item-5">Portfolio</a></li>
             <li><a href="#list-item-6">Testimonial</a></li>
             <li><a href="#list-item-7">Blogs</a></li>
             <li><a href="#list-item-8">Contact</a></li>
-          </ul>
+          </ul
         </div>
         <div class="space32"></div>
         <div class="space16"></div>
@@ -100,7 +100,7 @@
                     </span>
                   </label>
                 </div>
-                <a href="contact.php" class="vl-btn1">Recrutez moi <span><img src="assets/img/icons/mail1.svg"
+                <a href="contact.php" class="vl-btn1">Recrutez-moi <span><img src="assets/img/icons/mail1.svg"
                       alt=""></span></a>
                 <button class="hamburger_menu"><img src="assets/img/icons/bars-icons1.svg" alt=""></button>
               </div>
@@ -119,28 +119,25 @@
         <div class="col-lg-4">
           <div class="personal-contact-box">
             <div class="img1 image-anime reveal">
-              <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+              <img src="assets/img/all-images/hero/loho.jpeg" alt="">
             </div>
             <div class="space18"></div>
-            <h3>Alex Carry</h3>
+            <h3>Esméralda AGBESSY</h3>
             <div class="space16"></div>
-            <p>Hi, I’m Alex, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital
-              experiences.</p>
+            <p>Salut, je suis Esméralda AGBESSY,Développeur Frontend & UI/UX Designer </p>
             <div class="space32"></div>
             <ul>
-              <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
-              <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
-              <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
-              <li><a href="#"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
-              <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li>
+        
+            <li><a href="https://www.linkedin.com/in/esm%C3%A9ralda-agbessy-3472b9263/" target="_blank"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
+              <li><a href="https://github.com/Esmeraldaagb" target="_blank"><img src="assets/img/icons/github.svg" alt=""></a></li>
             </ul>
             <div class="space44"></div>
             <div class="btn-area1 text-center">
-              <a href="assets/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img
+              <a href="assets/img/all-images/hero/cv.pdf" download class="vl-btn1">Télécharger<img
                   src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
-            <p>© 2024 OVRO. All Rights Reserved.</p>
+            <p>© 2025 Esméralda. Tout droits réservés.</p>
           </div>
         </div>
         <div class="col-lg-8">
@@ -154,21 +151,22 @@
                       <div class="heading1">
                         <h5><img src="assets/img/icons/sublogo1.svg" alt="">Blog details</h5>
                         <div class="space24"></div>
-                        <h2>Behind the Pixels:
-                          My Favorite Design Projects</h2>
+                        <h2>Derrière les pixels : 
+                          Mes design préférés
+                          </h2>
                       </div>
                       <div class="space48"></div>
                       <div class="blog-details-content">
                         <div class="list">
                           <ul>
-                            <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt=""> Alex
-                                Carry</a><span> | </span></li>
+                            <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="" class="w-30 h-30"> AGBESSY
+                                Esméralda</a><span> | </span></li>
                             <li><a href="#">UI/UX</a></li>
                           </ul>
                           <ul class="list1">
-                            <li><a href="#"><i class="fa-solid fa-calendar-days"></i> Oct 26, 2024 </a><span> | </span>
+                            <li><a href="#"><i class="fa-solid fa-calendar-days"></i> Avril, 2025</a><span> | </span>
                             </li>
-                            <li><a href="#"><i class="fa-solid fa-clock"></i> 3 min read </a></li>
+                            <li><a href="#"><i class="fa-solid fa-clock"></i> Aujourd'hui </a></li>
                           </ul>
                         </div>
                         <div class="space24"></div>
@@ -176,33 +174,19 @@
                           <img src="assets/img/all-images/blog/blog-img6.png" alt="">
                         </div>
                         <div class="space24"></div>
-                        <p>Design is more than just visuals; it’s about creating meaningful connections between users
-                          and digital platforms. Over the years, I’ve had the privilege of working on projects that
-                          challenged my creativity, enhanced my skills, and left a lasting impact on both clients and
-                          users. Here’s a closer look at some of my favorite design projects and the stories behind
-                          them.</p>
+                        <p>Le design ne se limite pas à l'aspect visuel ; il s'agit de créer des liens significatifs entre les utilisateurs et les plateformes numériques. Au fil des ans, j'ai eu le privilège de travailler sur des projets qui ont mis ma créativité à l'épreuve, développé mes compétences et laissé un impact durable sur mes clients et les utilisateurs. Voici un aperçu de certains de mes projets de design préférés et de leurs histoires.</p>
                         <div class="space48"></div>
                         <h3>Redefining an E-Commerce Experience</h3>
                         <div class="space24"></div>
-                        <p>The goal was to create a seamless shopping experience that catered to a diverse audience. By
-                          focusing on intuitive navigation and personalized interfaces, I designed a platform that
-                          simplified online shopping without sacrificing style. This project was a turning point in
-                          understanding the power of user personas and how small details like button placements can
-                          enhance engagement.</p>
+                        <p>L'objectif était de créer une expérience d'achat fluide et adaptée à un public diversifié. En privilégiant une navigation intuitive et des interfaces personnalisées, j'ai conçu une plateforme qui simplifiait les achats en ligne sans sacrifier le style. Ce projet a marqué un tournant dans la compréhension du pouvoir des profils utilisateurs et de l'impact de petits détails, comme le positionnement des boutons, sur l'engagement.</p>
                         <div class="space48"></div>
-                        <h3>A Minimalist Approach to Productivity</h3>
+                        <h3>Une approche minimaliste de la productivité</h3>
                         <div class="space24"></div>
-                        <p>This project was all about balance. The challenge was to combine functionality with
-                          simplicity for a productivity app. By stripping down unnecessary elements and using a clean,
-                          calming color palette, I delivered a design that made task management stress-free. This taught
-                          me the importance of reducing cognitive load through design.</p>
+                        <p>Ce projet était une question d'équilibre. Le défi consistait à allier fonctionnalité et simplicité pour une application de productivité. En supprimant les éléments inutiles et en utilisant une palette de couleurs épurées et apaisantes, j'ai créé un design qui a simplifié la gestion des tâches. Cela m'a appris l'importance de réduire la charge cognitive grâce au design.</p>
                         <div class="space48"></div>
-                        <h3>Breathing New Life into a Legacy Brand</h3>
+                        <h3>Donner un nouveau souffle à une marque historique</h3>
                         <div class="space24"></div>
-                        <p>Working with an established company meant maintaining its identity while modernizing its
-                          digital presence. Through bold typography, dynamic visuals, and a responsive layout, I
-                          transformed their outdated website into a vibrant online hub. This project reinforced my
-                          ability to blend tradition with innovation.</p>
+                        <p>Collaborer avec une entreprise établie signifiait préserver son identité tout en modernisant sa présence numérique. Grâce à une typographie audacieuse, des visuels dynamiques et une mise en page responsive, j'ai transformé leur site web obsolète en une plateforme en ligne dynamique. Ce projet a renforcé ma capacité à allier tradition et innovation.</p>
                         <div class="space48"></div>
                         <div class="row">
                           <div class="col-lg-6 col-md-6">
@@ -219,16 +203,12 @@
                           </div>
                         </div>
                         <div class="space18"></div>
-                        <h3>Crafting an Immersive Experience</h3>
+                        <h3>Créer une expérience immersive</h3>
                         <div class="space24"></div>
-                        <p>For a platform designed to inspire travel, the design had to be as exciting as the
-                          destinations it showcased. High-resolution imagery, immersive animations, and interactive maps
-                          brought the user journey to life. This project allowed me to experiment with motion design and
-                          understand the importance of visual storytelling.</p>
+                        <p>Pour une plateforme conçue pour inspirer les voyageurs, le design devait être aussi captivant que les destinations présentées. Des images haute résolution, des animations immersives et des cartes interactives donnaient vie au parcours utilisateur. Ce projet m'a permis d'expérimenter le motion design et de comprendre l'importance de la narration visuelle.</p>
                         <div class="space48"></div>
                         <div class="pera-box">
-                          <p>"Good design is making something intelligible and memorable. Great design is making
-                            something memorable and meaningful."</p>
+                          <p>"Un bon design consiste à créer quelque chose d'intelligible et de mémorable. Un excellent design consiste à créer quelque chose de mémorable et de significatif."</p>
                           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20"
                             fill="none">
                             <path
@@ -247,15 +227,14 @@
                           </div>
                           <div class="social">
                             <ul>
-                              <li>Social:</li>
-                              <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                              <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                              <li><a href="#" class="m-0"><i class="fa-brands fa-youtube"></i></a></li>
+                              <li>Sociale:</li>
+                              <li><a href="https://www.linkedin.com/in/esm%C3%A9ralda-agbessy-3472b9263/" target="_blank"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
+                           <li><a href="https://github.com/Esmeraldaagb" target="_blank"><img src="assets/img/icons/github.svg" alt=""></a></li>
                             </ul>
                           </div>
                         </div>
                         <div class="space48"></div>
-                        <h3>Comments (2)</h3>
+                        <h3>Commentaire (2)</h3>
                         <div class="space32"></div>
                         <div class="comments-boxarea">
                           <div class="comments-boxes">
@@ -264,17 +243,15 @@
                                 <img src="assets/img/all-images/blog/blog-img7.png" alt="">
                               </div>
                               <div class="content">
-                                <a href="team.php" class="name">Mr. Ana Ritchie</a>
-                                <a href="#" class="date"><img src="assets/img/icons/calender1.svg" alt=""> 8 December
-                                  2024</a>
+                                <a href="team.php" class="name">ADJIBI Juliane</a>
+                                <a href="#" class="date"><img src="assets/img/icons/calender1.svg" alt=""> 24 Mars
+                                  2025</a>
                               </div>
                             </div>
-                            <a href="#" class="reply"><i class="fa-solid fa-reply"></i> Reply</a>
+                            <a href="#" class="reply"><i class="fa-solid fa-reply"></i> Répondre</a>
                           </div>
                           <div class="space16"></div>
-                          <p>Before diving into complex design software or frameworks, it's crucial to have a solid
-                            understanding of the fundamentals of web design, including HTML, CSS, and JavaScript. These
-                            languages form the backbone of every website and are.</p>
+                          <p>Un travail parfait.</p>
                         </div>
                         <div class="space30"></div>
                         <div class="comments-boxarea box2">
@@ -284,17 +261,15 @@
                                 <img src="assets/img/all-images/blog/blog-img8.png" alt="">
                               </div>
                               <div class="content">
-                                <a href="team.php" class="name">Andre Philips</a>
-                                <a href="#" class="date"><img src="assets/img/icons/calender1.svg" alt=""> 8 December
-                                  2024</a>
+                                <a href="team.php" class="name">AGBESSY Esméralda</a>
+                                <a href="#" class="date"><img src="assets/img/icons/calender1.svg" alt=""> 24 Mars 
+                                  2025</a>
                               </div>
                             </div>
                             <a href="#" class="reply"><i class="fa-solid fa-reply"></i> Reply</a>
                           </div>
                           <div class="space16"></div>
-                          <p>The field of web design is constantly evolving, with new trends and technologies emerging
-                            regularly. Make it a habit to stay updated on the latest design trends by following industry
-                            blogs, attending.</p>
+                          <p>Je vous remercie.</p>
                         </div>
                       </div>
                     </div>
@@ -309,30 +284,30 @@
                     <div class="col-lg-12">
                       <div class="space50"></div>
                       <div class="contact-boxarea">
-                        <h3>Leave A Message</h3>
+                        <h3>Laisser un message</h3>
                         <div class="space12"></div>
                         <div class="row">
                           <div class="col-lg-12">
                             <div class="input-area">
-                              <input type="text" placeholder="Full Name">
+                              <input type="text" placeholder="Nom &Pr&nom">
                             </div>
                           </div>
 
                           <div class="col-lg-12">
                             <div class="input-area">
-                              <input type="number" placeholder="Phone Number">
+                              <input type="number" placeholder="Téléphone">
                             </div>
                           </div>
 
                           <div class="col-lg-12">
                             <div class="input-area">
-                              <input type="email" placeholder="Email Address">
+                              <input type="email" placeholder="Email ">
                             </div>
                           </div>
 
                           <div class="col-lg-12">
                             <div class="input-area">
-                              <input type="text" placeholder="Subject">
+                              <input type="text" placeholder="Sujet">
                             </div>
                           </div>
 
@@ -344,7 +319,7 @@
 
                           <div class="col-lg-12">
                             <div class="input-area">
-                              <button type="submit" class="vl-btn1">Send <img src="assets/img/icons/mail1.svg"
+                              <button type="submit" class="vl-btn1">Envoyer <img src="assets/img/icons/mail1.svg"
                                   alt=""></button>
                             </div>
                           </div>
@@ -356,9 +331,9 @@
                       <div class="space50"></div>
                       <div class="footer-area">
                         <div class="btn-area1">
-                          <a href="#" class="vl-btn1">HIRE ME <img src="assets/img/icons/mail1.svg" alt=""></a>
+                          <a href="#" class="vl-btn1">Recrutez-moi<img src="assets/img/icons/mail1.svg" alt=""></a>
                         </div>
-                        <p>© 2024 OVRO. All Rights Reserved.</p>
+                        <p>© 2025 Esméralda AGBESSY. Tout droits réservés.</p>
                       </div>
                     </div>
                   </div>

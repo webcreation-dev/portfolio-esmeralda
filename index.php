@@ -638,7 +638,7 @@
                                 <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
                               </ul>
                               <div class="space16"></div>
-                              <a href="blog-single.php">Derrière les pixels : mes personnel design préférés</a>
+                              <a href="blog-single.php">Derrière les pixels : mes design préférés</a>
                               <div class="space16"></div>
                               <ul>
                                 <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="" width="30" height="30" class="rounded-full">Esméralda</a></li>
