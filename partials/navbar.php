@@ -18,7 +18,7 @@
                     </span>
                   </label>
                 </div>
-                <a href="contact.php" class="vl-btn1">HIRE ME <span><img src="assets/img/icons/mail1.svg" alt=""></span></a>
+                <a href="contact.php" class="vl-btn1">RECRUTE MOI <span><img src="assets/img/icons/mail1.svg" alt=""></span></a>
                 <button class="hamburger_menu"><img src="assets/img/icons/bars-icons1.svg" alt=""></button>
               </div>
             </div>
