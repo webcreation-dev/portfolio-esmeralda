@@ -58,13 +58,8 @@
         <div class="social-link-area">
           <h3 class="sidebar-heading">Liens sociaux</h3>
           <ul>
-            <li>
-              <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-              <a href="#"><i class="fa-brands fa-instagram"></i></a>
-              <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-              <a href="#"><i class="fa-brands fa-pinterest-p"></i></a>
-              <a href="#"><i class="fa-brands fa-youtube"></i></a>
-            </li>
+          <li><a href="https://www.linkedin.com/in/esm%C3%A9ralda-agbessy-3472b9263/" target="_blank"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
+              <li><a href="https://github.com/Esmeraldaagb" target="_blank"><img src="assets/img/icons/github.svg" alt=""></a></li>
           </ul>
         </div>
         <div class="space40"></div>
@@ -119,7 +114,7 @@
         <div class="col-lg-4">
           <div class="personal-contact-box">
             <div class="img1 image-anime reveal">
-              <img src="assets/img/all-images/hero/loho.jpeg" alt="">
+              <img src="assets/img/all-images/hero/logo.jpeg" alt="">
             </div>
             <div class="space18"></div>
             <h3>Esméralda AGBESSY</h3>
