@@ -62,7 +62,7 @@
             <div class="hero-heading-area heading1">
               <h5 data-aos="fade-left" data-aos-duration="800">Salut, je suis Esméralda AGBESSY </h5>
               <div class="space24"></div>
-              <h1 data-aos="fade-left" data-aos-duration="900">Développeur Frontend </h1>
+              <h1 data-aos="fade-left" data-aos-duration="500">Développeur Frontend </h1>
               <div class="space24"></div>
               <h1 class="head" data-aos="fade-left" data-aos-duration="1000">& UI/UX  <span>Designer</span></h1>
               <div class="space24"></div>
