@@ -6,7 +6,7 @@
           <div class="col-lg-12">
             <div class="header-elements">
               <div class="site-logo">
-                <a href="index1.php"><img src="assets/img/logo/fav-logo1.png" alt=""></a>
+                <a href="index1.php"><img src="assets/img/logo/black.png" alt=""></a>
               </div>
               <div class="btn-area d-lg-flex">
                 <div class="theme-toggle-container">
