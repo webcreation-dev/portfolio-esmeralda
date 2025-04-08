@@ -397,7 +397,7 @@
                         </a>
                       </div>
                       <div class="space24"></div>
-                      <a href="javascript:void(0)">Site Web Harnix/a>
+                      <a href="javascript:void(0)">Site Web Harnix</a>
                     </div>
                   </div>
 
@@ -429,7 +429,7 @@
                     <div class="portfolio-boxarea click-here">
                       <div class="img1">
                         <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/im8.png" alt="">
+                          <img src="assets/img/all-images/portfolio/im9.png" alt="">
                         </a>
                       </div>
                       <div class="space24"></div>
@@ -646,7 +646,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="blog-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Our Blog</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Mon blog</h5>
                       <div class="space24"></div>
                       <h2 data-aos="fade-left" data-aos-duration="1000">Mes design </h2>
                       <div class="space24"></div>
@@ -730,7 +730,7 @@
                               <div class="space16"></div>
                               <ul>
                                                               
-                            <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="">Esméralda</a></li>
+                            <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="" width="30" height="30" >Esméralda</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
@@ -778,37 +778,37 @@
                       <div class="space24"></div>
                       <h2 data-aos="fade-left" data-aos-duration="1000">Avez-vous un projet en</h2>
                       <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Tete, <span>Parlons-en</span></h2>
+                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100"> <span>Parlons-en</span></h2>
                     </div>
                     <div class="space50"></div>
                     <div class="contact-boxarea" data-aos="zoom-in" data-aos-duration="1000">
-                      <h3>Let’s Work Together!</h3>
+                      <h3>Travaillons Ensemble!</h3>
                       <div class="space12"></div>
                       <div class="row">
                         <div class="col-lg-6 col-md-6">
                           <div class="input-area">
-                            <input type="text" placeholder="Full Name">
+                            <input type="text" placeholder="Nom & Prénom">
                           </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
                           <div class="input-area">
-                            <input type="email" placeholder="Email Address">
+                            <input type="email" placeholder="Email">
                           </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
                           <div class="input-area">
-                            <input type="number" placeholder="Phone Number">
+                            <input type="number" placeholder="Téléphone">
                           </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
                           <div class="input-area">
-                            <input type="text" placeholder="Subject">
+                            <input type="text" placeholder="Sujet">
                           </div>
                         </div>
 
                         <div class="col-lg-12">
                           <div class="input-area">
-                            <input type="text" placeholder="Your Budget (optional)">
+                            <input type="text" placeholder="Votre Budget (optionnel)">
                           </div>
                         </div>
 
@@ -831,7 +831,7 @@
                     <div class="space50"></div>
                     <div class="footer-area">
                       <div class="btn-area1">
-                        <a href="index1.php"><img src="assets/img/logo/black.png" alt=""></a>
+                        <a href="index1.php"><img src="assets/img/logo/black.png" alt="" width="100"></a>
                       </div>
                       <p>© 2025 Esméralda AGBESSY. Tout droits réservé.</p>
                     </div>
