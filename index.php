@@ -295,10 +295,46 @@
                         </div>
                       </div>
 
+                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="900">
+                        <div class="skill-boxarea">
+                          <div class="icons">
+                            <img src="assets/img/icons/typescript.png" alt="">
+                          </div>
+                          <div class="space24"></div>
+                          <h3><span class="counter">60</span>%</h3>
+                          <div class="space16"></div>
+                          <p>TypScript</p>
+                        </div>
+                      </div>
+
+                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="900">
+                        <div class="skill-boxarea">
+                          <div class="icons">
+                            <img src="assets/img/icons/github.svg" alt="">
+                          </div>
+                          <div class="space24"></div>
+                          <h3><span class="counter">60</span>%</h3>
+                          <div class="space16"></div>
+                          <p>GitHub</p>
+                        </div>
+                      </div>
+
+                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="900">
+                        <div class="skill-boxarea">
+                          <div class="icons">
+                            <img src="assets/img/icons/reactbootstrap.svg" alt="">
+                          </div>
+                          <div class="space24"></div>
+                          <h3><span class="counter">75</span>%</h3>
+                          <div class="space16"></div>
+                          <p>ReactBootstrap</p>
+                        </div>
+                      </div>
+
                       <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
                         <div class="skill-boxarea">
                           <div class="icons">
-                            <img src="assets/img/icons/skill2.svg" alt="">
+                            <img src="assets/img/icons/html.png" alt="">
                           </div>
                           <div class="space24"></div>
                           <h3><span class="counter">80</span>%</h3>
@@ -310,7 +346,7 @@
                       <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
                         <div class="skill-boxarea">
                           <div class="icons">
-                            <img src="assets/img/icons/skill3.svg" alt="">
+                            <img src="assets/img/icons/css.png" alt="">
                           </div>
                           <div class="space24"></div>
                           <h3><span class="counter">70</span>%</h3>
@@ -322,7 +358,7 @@
                       <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
                         <div class="skill-boxarea">
                           <div class="icons">
-                            <img src="assets/img/icons/skill4.svg" alt="">
+                            <img src="assets/img/icons/tailwindcss.png" alt="">
                           </div>
                           <div class="space24"></div>
                           <h3><span class="counter">89</span>%</h3>
@@ -334,7 +370,7 @@
                       <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
                         <div class="skill-boxarea">
                           <div class="icons">
-                            <img src="assets/img/icons/skill5.svg" alt="">
+                            <img src="assets/img/icons/react.png" alt="">
                           </div>
                           <div class="space24"></div>
                           <h3><span class="counter">78</span>%</h3>
@@ -346,7 +382,7 @@
                       <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="11000">
                         <div class="skill-boxarea">
                           <div class="icons">
-                            <img src="assets/img/icons/skill6.svg" alt="" class="Wordpress">
+                            <img src="assets/img/icons/reactnat.png" alt="" class="Wordpress">
                           </div>
                           <div class="space24"></div>
                           <h3><span class="counter">75</span>%</h3>
@@ -358,7 +394,7 @@
                       <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="11000">
                         <div class="skill-boxarea">
                           <div class="icons">
-                            <img src="assets/img/icons/skill6.svg" alt="" class="Wordpress">
+                            <img src="assets/img/icons/nextdotjs.svg" alt="" class="Wordpress">
                           </div>
                           <div class="space24"></div>
                           <h3><span class="counter">75</span>%</h3>
@@ -440,69 +476,7 @@
               </div>
             </div>
             <!--===== PORTFOLIO AREA ENDS =======-->
-            <!-- <div class="portfolio-section-area">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-12">
-                    <div class="portfolio-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">My Portfolio</h5>
-                      <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">Innovation Designs</h2>
-                      <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Real <span>Results</span></h2>
-                    </div>
-                  </div>
-                  <div class="space50"></div>
-                  <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1000">
-                    <div class="portfolio-boxarea click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img1.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Reelup - E commercer Video Platform</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
-                    <div class="portfolio-boxarea2 click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img3.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Academy - Sales Career</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1200">
-                    <div class="portfolio-boxarea2 click-here">
-                      <div class="img1">
-                        <a href="#">
-                          <img src="assets/img/all-images/portfolio/portfolio-img4.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Leadlogic- Dashboard Design</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1100">
-                    <div class="portfolio-boxarea click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img2.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Reelup - E commercer Video Platform</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div> -->
+           
           </div>
           <div class="space30"></div>
           <div id="list-item-6">
