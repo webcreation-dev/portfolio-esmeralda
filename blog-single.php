@@ -114,7 +114,7 @@
         <div class="col-lg-4">
           <div class="personal-contact-box">
             <div class="img1 image-anime reveal">
-              <img src="assets/img/all-images/hero/logo.jpeg" alt="">
+              <img src="assets/img/all-images/hero/profile.jpeg" alt="">
             </div>
             <div class="space18"></div>
             <h3>Esméralda AGBESSY</h3>
