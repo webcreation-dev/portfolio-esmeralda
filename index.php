@@ -844,9 +844,9 @@
                             <a href="#">08 Avril 2025</a>
                             <a href="#">AGBESSY Esméralda</a>
                           </div>
-                          <a href="#">Création de designs convaincants et marketing stratégique : un parcours créatif dévoilé</a>
-                          <p>Dans le paysage numérique actuel en constante évolution, l'interaction entre design et marketing est devenue essentielle pour les entreprises qui souhaitent captiver leur public et assurer leur réussite. Créer des designs percutants.</p>
-                          <p class="pera">Psychologie et tendances du marché. Grâce au marketing stratégique, ces concepts prennent vie, s'appuyant sur des données innovantes.</p>
+                          <a href="#">Création de designs et d'interface web convaincants</a>
+                          <p>Dans le paysage numérique actuel en constante évolution, l'interaction entre design et l'interface utilisateur est devenue essentielle pour les entreprises qui souhaitent captiver leur public et assurer leur réussite.</p>
+
                           <div class="btn-area1">
                             <a href="contact.php" class="vl-btn1">Contactez-moi maintenant</a>
                           </div>

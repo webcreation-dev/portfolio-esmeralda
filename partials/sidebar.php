@@ -4,7 +4,7 @@
       <div class="sidebar-info">
         <div class="sidebar-logo">
           <a href="index1.php">
-            <img src="assets/img/logo/black.png" alt="logo">
+            <img src="assets/img/logo/black.png" alt="logo" width="200" height="200">
           </a>
           <div class="close-mobile-menu">
             <a><i class="fa-solid fa-xmark"></i></a>
@@ -25,14 +25,14 @@
         <div class="space32"></div>
         <div class="space16"></div>
         <div class="btn-area">
-          <a href="contact.php" class="vl-btn1">Contactez-moi maintenant <img src="assets/img/icons/mail1.svg" alt=""></a>
+          <a href="contact.php" class="vl-btn1">Contactez-moi<img src="assets/img/icons/mail1.svg" alt=""></a>
         </div>
         <div class="space40"></div>
         <div class="social-link-area">
           <h3 class="sidebar-heading">Lien sociaux</h3>
           <ul>
             <li>    
-              <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+              <a href="www.linkedin.com/in/esméralda-agbessy-3472b9263"><i class="fa-brands fa-linkedin-in"></i></a>
             </li>
           </ul>
         </div>
