@@ -69,10 +69,10 @@
         </div>
         <div class="space40"></div>
         <div class="form-area">
-          <h3>Subscribe To Newsletter</h3>
+          <h3>Souscrire au Newlesterr</h3>
           <form>
             <input type="text" placeholder="Email Address*">
-            <button type="submit" class="vl-btn1" style="overflow: hidden;">subscribe</button>
+            <button type="submit" class="vl-btn1" style="overflow: hidden;">souscrire</button>
           </form>
         </div>
       </div>
@@ -100,7 +100,7 @@
                     </span>
                   </label>
                 </div>
-                <a href="contact.php" class="vl-btn1">HIRE ME <span><img src="assets/img/icons/mail1.svg"
+                <a href="contact.php" class="vl-btn1">Recrutez moi <span><img src="assets/img/icons/mail1.svg"
                       alt=""></span></a>
                 <button class="hamburger_menu"><img src="assets/img/icons/bars-icons1.svg" alt=""></button>
               </div>

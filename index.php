@@ -30,7 +30,6 @@
               <a class="list-group-item list-group-item-action" href="#list-item-5"><img src="assets/img/icons/home5.svg" alt=""> <span>Portfolio</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-6"><img src="assets/img/icons/home6.svg" alt=""> <span>Testimonial</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-7"><img src="assets/img/icons/home8.svg" alt=""> <span>Our Blog</span></a>
-              <a class="list-group-item list-group-item-action m-0" href="#list-item-8"><img src="assets/img/icons/home7.svg" alt=""> <span>Contact Us</span></a>
             </div>
             <div class="img1 image-anime reveal">
               <img src="assets/img/all-images/hero/profile.jpeg" alt="">
@@ -52,7 +51,7 @@
               <a href="assets/img/all-images/hero/CURRICULUM_VITAE_ESMERALDA AGBESSY.pdf" download class="vl-btn1">TÉLECHARGER LE CV <img src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
-            <p>© 2024 . Tout droits réservés.</p>
+            <p>© 2025 . Tout droits réservés.</p>
           </div>
       </div>
       <div class="col-lg-8">
@@ -60,7 +59,7 @@
           <!--===== HERO AREA STARTS =======-->
           <div id="list-item-1">
             <div class="hero-heading-area heading1">
-              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Salut, je suis Esméralda AGBESSY  </h5>
+              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/black.png" alt="">Salut, je suis Esméralda AGBESSY  </h5>
               <div class="space24"></div>
               <h1 data-aos="fade-left" data-aos-duration="900">Développeur Frontend </h1>
               <div class="space24"></div>
@@ -101,7 +100,7 @@
             <!--===== ABOUT AREA STARTS =======-->
             <div class="about-section-area">
               <div class="heading1">
-                <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">A propos</h5>
+                <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/black.png" alt="" width="300" height="200">A propos</h5>
                 <div class="space24"></div>
                 <!-- <h1 data-aos="fade-left" data-aos-duration="1000">Crafting Seamless</h1> -->
                 <div class="space24"></div>
@@ -223,7 +222,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="service-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Mes services</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/black.png" alt="" width="300" height="200">Mes services</h5>
                       <div class="space24"></div>
                       <h2 data-aos="fade-left" data-aos-duration="1000">Élever les marques</h2>
                       <div class="space24"></div>
@@ -275,7 +274,7 @@
                 <div class="row">
                   <div class="col-gl-12">
                     <div class="skill-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Mes Compétences</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/black.png" alt="" width="300" height="200">Mes Compétences</h5>
                       <div class="space24"></div>
                       <h2 data-aos="fade-left" data-aos-duration="1000">Les outils derrière </h2>
                       <div class="space24"></div>
@@ -358,7 +357,7 @@
                       <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
                         <div class="skill-boxarea">
                           <div class="icons">
-                            <img src="assets/img/icons/tailwindcss.png" alt="">
+                            <img src="assets/img/icons/tailwind.png" alt="">
                           </div>
                           <div class="space24"></div>
                           <h3><span class="counter">89</span>%</h3>
@@ -417,7 +416,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="portfolio-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Mon Portfolio</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/black.png" alt="" width="300" height="200">Mon Portfolio</h5>
                       <div class="space24"></div>
                       <h2 data-aos="fade-left" data-aos-duration="1000">Interface réalisé</h2>
                       <div class="space24"></div>
@@ -486,7 +485,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="testimonial-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Testimonial</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/black.png" alt="" width="300" height="200">Testimonial</h5>
                       <div class="space24"></div>
                       <h2 data-aos="fade-left" data-aos-duration="1000">Ce que les clients pensent</h2>
                       <div class="space24"></div>
@@ -620,7 +619,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="blog-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Mon blog</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/black.png" alt="" width="300" height="200">Mon blog</h5>
                       <div class="space24"></div>
                       <h2 data-aos="fade-left" data-aos-duration="1000">Mes design </h2>
                       <div class="space24"></div>
@@ -641,7 +640,7 @@
                               <a href="blog-single.php">Derrière les pixels : mes personnel design préférés</a>
                               <div class="space16"></div>
                               <ul>
-                                <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="">Esméralda</a></li>
+                                <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="" width="30" height="30" class="rounded-full">Esméralda</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
@@ -661,7 +660,7 @@
                               <a href="blog-single.php">Création Affiche</a>
                               <div class="space16"></div>
                               <ul>
-                                <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="">Esméralda</a></li>
+                                <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="" width="30" height="30"  class="rounded-full">Esméralda</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Avril 02, 2025 </a></li>
                               </ul>
                             </div>
@@ -682,7 +681,7 @@
                               <a href="blog-single.php">Branding: Une de mes créations</a>
                               <div class="space16"></div>
                               <ul>
-                               <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="">Esméralda</a></li>
+                               <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="" width="30" height="30"  class="rounded-full">Esméralda</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
@@ -704,7 +703,7 @@
                               <div class="space16"></div>
                               <ul>
                                                               
-                            <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="" width="30" height="30" >Esméralda</a></li>
+                            <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="" width="30" height="30"  class="rounded-full">Esméralda</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
@@ -748,7 +747,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="contact-heading heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Me contacter</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/black.png" alt="" width="300" height="200">Me contacter</h5>
                       <div class="space24"></div>
                       <h2 data-aos="fade-left" data-aos-duration="1000">Avez-vous un projet en</h2>
                       <div class="space24"></div>
@@ -805,7 +804,7 @@
                     <div class="space50"></div>
                     <div class="footer-area">
                       <div class="btn-area1">
-                        <a href="index1.php"><img src="assets/img/logo/black.png" alt="" width="100"></a>
+                        <a href="index1.php"><img src="assets/img/logo/black.png" alt="" width="300" height="200"></a>
                       </div>
                       <p>© 2025 Esméralda AGBESSY. Tout droits réservé.</p>
                     </div>
