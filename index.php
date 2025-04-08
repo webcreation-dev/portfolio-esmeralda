@@ -101,20 +101,20 @@
             <!--===== ABOUT AREA STARTS =======-->
             <div class="about-section-area">
               <div class="heading1">
-                <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">About Us</h5>
+                <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">A propos</h5>
                 <div class="space24"></div>
-                <h1 data-aos="fade-left" data-aos-duration="1000">Crafting Seamless</h1>
+                <!-- <h1 data-aos="fade-left" data-aos-duration="1000">Crafting Seamless</h1> -->
                 <div class="space24"></div>
-                <h1 class="head" data-aos="fade-left" data-aos-duration="1100">User <span>Experiences</span></h1>
+                <h1 class="head" data-aos="fade-left" data-aos-duration="1100">Expérience <span>Utilisateurs</span></h1>
               </div>
               <div class="space60"></div>
               <div class="about-boxarea">
                 <div class="row">
                   <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1200">
                     <div class="about-main-boxes">
-                      <h4>Alex Carry</h4>
+                      <h4>AGBESSY Esméralda</h4>
                       <div class="space24"></div>
-                      <p>Hi, I’m Alex Carry, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences. I specialize in crafting user-centered designs that enhance engagement and drive results. By combining research, creativity, and technical skills, I deliver solutions that not only look great but also function seamlessly. </p>
+                      <p>Salut, je suis Esmeralda AGBESSY, développeur frontEnd & mobile avec des compétences en design dédié avec 2 ans d'expérience dans la création d'expériences numériques pertinentes. Je suis spécialisé dans la création de designs centrés sur l'utilisateur qui améliorent l'engagement et génèrent des résultats. En alliant recherche, créativité et compétences techniques, je propose des solutions non seulement esthétiques, mais aussi fonctionnelles.</p>
                     </div>
                   </div>
                   <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="900">
@@ -123,7 +123,7 @@
                       <div class="content-area">
                         <h4>UI/UX Design</h4>
                         <div class="space16"></div>
-                        <p>Designing intuitive, user-focused interfaces that prioritize functionality & seamless navigation.</p>
+                        <p>Concevoir des interfaces intuitives et axées sur l'utilisateur qui privilégient la fonctionnalité et une navigation fluide.</p>
                       </div>
                     </div>
                   </div>
@@ -132,9 +132,9 @@
                     <div class="about-boxes2">
                       <img src="assets/img/icons/home3.svg" alt="">
                       <div class="content-area">
-                        <h4>User Research & Prototyping</h4>
+                        <h4>Recherche utilisateur et prototypage</h4>
                         <div class="space16"></div>
-                        <p>Conducting in-depth user research and creating interactive prototypes to validate ideas and refine designs.</p>
+                        <p>Mener des recherches approfondies sur les utilisateurs et créer des prototypes interactifs pour valider les idées et affiner les conceptions.</p>
                       </div>
                     </div>
                   </div>
@@ -143,9 +143,9 @@
                     <div class="about-boxes2">
                       <img src="assets/img/icons/home4.svg" alt="">
                       <div class="content-area">
-                        <h4>Responsive Web Design</h4>
+                        <h4>Conception Web responsive</h4>
                         <div class="space16"></div>
-                        <p>Crafting designs  adapt seamlessly across all devices ensuring and  a  consistent user experience.</p>
+                        <p>Les conceptions artisanales s'adaptent de manière transparente à tous les appareils, garantissant une expérience utilisateur cohérente.</p>
                       </div>
                     </div>
                   </div>
@@ -154,9 +154,9 @@
                     <div class="about-boxes2">
                       <img src="assets/img/icons/home5.svg" alt="">
                       <div class="content-area">
-                        <h4>Wireframing & Visual Design</h4>
+                        <h4>Wireframing et conception visuelle</h4>
                         <div class="space16"></div>
-                        <p>Creating detailed wireframes and visually stunning designs to bring ideas into focus.</p>
+                        <p>Créer des wireframes détaillés et des designs visuellement époustouflants pour mettre en évidence les idées.</p>
                       </div>
                     </div>
                   </div>
@@ -165,27 +165,29 @@
                     <h3>Work Experience</h3>
                     <div class="space32"></div>
                     <div class="about-others-box" data-aos="zoom-in" data-aos-duration="900">
-                      <a href="#">2015-2020</a>
+                      <a href="#">Avril 2023- Juillet 2023</a>
                       <div class="space16"></div>
-                      <h4><a href="#">UI/UX Designer</a> </h4>
+                      <h4><a href="#">Stage Académique en développement web</a> </h4>
                       <div class="space16"></div>
-                      <p>Creative Spark Agency</p>
+                      <p>RightCom Benin</p>
                       <div class="space32"></div>
-                      <a href="#">2020 - Present</a>
+                      <a href="#">Février 2024-Aout 2024</a>
                       <div class="space16"></div>
-                      <h4><a href="#">Senior UI/UX Designer </a></h4>
+                      <h4><a href="#">Développeur mobile</a></h4>
                       <div class="space16"></div>
-                      <p>Visionary Tech</p>
+                      <p>Entreprise de livraison</p>
+                      <a href="#">Janvier 2025-Avril 2025</a>
+                      <div class="space16"></div>
+                      <h4><a href="#">Développeur frontEnd</a></h4>
+                      <div class="space16"></div>
+                      <p>Harnix</p>
                     </div>
                     <div class="about-others-box text-center" data-aos="zoom-in" data-aos-duration="1000">
-                      <h4>Stay With Me </h4>
+                      <h4>Restez avec moi </h4>
                       <div class="space18"></div>
                       <ul>
                         <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
-                        <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
-                        <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
                         <li><a href="#"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
-                        <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li>
                       </ul>
                     </div>
                   </div>
@@ -194,17 +196,17 @@
                     <h3>Education</h3>
                     <div class="space32"></div>
                     <div class="about-others-box" data-aos="zoom-in" data-aos-duration="1100">
-                      <a href="#">2010 - 2013</a>
+                      <a href="#">2020</a>
                       <div class="space16"></div>
-                      <h4><a href="#">Bachelor's Degree in Graphic Design</a> </h4>
+                      <h4><a href="#">Baccalauréat</a> </h4>
                       <div class="space16"></div>
-                      <p>University of California</p>
+                      <p>Laura Vicuna</p>
                       <div class="space32"></div>
-                      <a href="#">2013 - 2015</a>
+                      <a href="#">2020-2023</a>
                       <div class="space16"></div>
-                      <h4><a href="#">Master's Degree in User Experience Design</a></h4>
+                      <h4><a href="#">Licence en Architecture des Logiciels</a></h4>
                       <div class="space16"></div>
-                      <p>Massachusetts Institute of Technology (MIT)</p>
+                      <p>ESGIS Bénin</p>
                     </div>
                   </div>
                   <div class="space20"></div>
@@ -221,41 +223,41 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="service-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">My Services</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Mes services</h5>
                       <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">Elevating Brands</h2>
+                      <h2 data-aos="fade-left" data-aos-duration="1000">Élever les marques</h2>
                       <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Intuitive <span>Design</span></h2>
+                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Design <span>Intuitive</span></h2>
                       <div class="space50"></div>
                      <div class="div" data-aos="fade-left" data-aos-duration="900">
                       <div class="service-main-boxes" >
                         <h4>UI/UX Design</h4>
                         <div class="space24"></div>
-                        <p>Designing intuitive, user-focused interfaces that prioritize functionality and seamless navigation.</p>
+                        <p>Concevoir des interfaces intuitives et axées sur l'utilisateur qui privilégient la fonctionnalité et une navigation fluide.</p>
                       </div>
                      </div>
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1000">
                         <div class="service-main-boxes">
-                          <h4>User Research & Prototyping</h4>
+                          <h4>Recherche utilisateur et prototypage</h4>
                           <div class="space24"></div>
-                          <p>Conducting in-depth user research and creating interactive prototypes to validate ideas and refine designs.</p>
+                          <p>Mener des recherches approfondies sur les utilisateurs et créer des prototypes interactifs pour valider les idées et affiner les conceptions.</p>
                         </div>
                       </div>
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1100">
                         <div class="service-main-boxes">
-                          <h4>Responsive Web Design</h4>
+                          <h4>Interface Web responsive</h4>
                           <div class="space24"></div>
-                          <p>Crafting designs that adapt seamlessly across all devices, ensuring a consistent user experience.</p>
+                          <p>Créer des conceptions qui s'adaptent parfaitement à tous les appareils, garantissant une expérience utilisateur cohérente.</p>
                         </div>
                       </div>
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1200">
                         <div class="service-main-boxes">
-                          <h4>Wireframing & Visual Design</h4>
+                          <h4>Wireframing & Design Visuel</h4>
                           <div class="space24"></div>
-                          <p>Creating detailed wireframes and visually stunning designs to bring ideas into focus.</p>
+                          <p>Création de wireframes détaillés et de designs visuellement époustouflants pour mettre en lumière les idées.</p>
                         </div>
                       </div>
                     </div>
@@ -273,9 +275,9 @@
                 <div class="row">
                   <div class="col-gl-12">
                     <div class="skill-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">My Skill</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Mes Compétences</h5>
                       <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">The Tools Behind </h2>
+                      <h2 data-aos="fade-left" data-aos-duration="1000">Les outils derrière </h2>
                       <div class="space24"></div>
                       <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Exceptional <span>Design</span></h2>
                     </div>
@@ -287,7 +289,7 @@
                             <img src="assets/img/icons/skill1.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">96</span>%</h3>
+                          <h3><span class="counter">80</span>%</h3>
                           <div class="space16"></div>
                           <p>Figma</p>
                         </div>
@@ -299,9 +301,9 @@
                             <img src="assets/img/icons/skill2.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">87</span>%</h3>
+                          <h3><span class="counter">80</span>%</h3>
                           <div class="space16"></div>
-                          <p>Photoshop</p>
+                          <p>HTML</p>
                         </div>
                       </div>
 
@@ -311,9 +313,9 @@
                             <img src="assets/img/icons/skill3.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">90</span>%</h3>
+                          <h3><span class="counter">70</span>%</h3>
                           <div class="space16"></div>
-                          <p>Illustrator</p>
+                          <p>CSS</p>
                         </div>
                       </div>
 
@@ -325,7 +327,7 @@
                           <div class="space24"></div>
                           <h3><span class="counter">89</span>%</h3>
                           <div class="space16"></div>
-                          <p>Sketch</p>
+                          <p>Tailwind</p>
                         </div>
                       </div>
 
@@ -335,9 +337,9 @@
                             <img src="assets/img/icons/skill5.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">92</span>%</h3>
+                          <h3><span class="counter">78</span>%</h3>
                           <div class="space16"></div>
-                          <p>Adobe XD</p>
+                          <p>RactJs</p>
                         </div>
                       </div>
 
@@ -347,9 +349,21 @@
                             <img src="assets/img/icons/skill6.svg" alt="" class="Wordpress">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">85</span>%</h3>
+                          <h3><span class="counter">75</span>%</h3>
                           <div class="space16"></div>
-                          <p>Wordpress</p>
+                          <p>ReactNative</p>
+                        </div>
+                      </div>
+
+                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="11000">
+                        <div class="skill-boxarea">
+                          <div class="icons">
+                            <img src="assets/img/icons/skill6.svg" alt="" class="Wordpress">
+                          </div>
+                          <div class="space24"></div>
+                          <h3><span class="counter">75</span>%</h3>
+                          <div class="space16"></div>
+                          <p>NextJs</p>
                         </div>
                       </div>
                     </div>
@@ -363,6 +377,70 @@
           <div id="list-item-5">
             <!--===== PORTFOLIO AREA STARTS =======-->
             <div class="portfolio-section-area">
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-12">
+                    <div class="portfolio-header heading1">
+                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Mon Portfolio</h5>
+                      <div class="space24"></div>
+                      <h2 data-aos="fade-left" data-aos-duration="1000">Interface réalisé</h2>
+                      <div class="space24"></div>
+                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Résultats <span>Réel</span></h2>
+                    </div>
+                  </div>
+                  <div class="space50"></div>
+                  <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1000">
+                    <div class="portfolio-boxarea click-here">
+                      <div class="img1">
+                        <a href="javascript:void(0)">
+                          <img src="assets/img/all-images/portfolio/im6.png" alt="">
+                        </a>
+                      </div>
+                      <div class="space24"></div>
+                      <a href="javascript:void(0)">Site Web Harnix/a>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
+                    <div class="portfolio-boxarea2 click-here">
+                      <div class="img1">
+                        <a href="javascript:void(0)">
+                          <img src="assets/img/all-images/portfolio/im7.png" alt="">
+                        </a>
+                      </div>
+                      <div class="space24"></div>
+                      <a href="javascript:void(0)">Dashboard Interface</a>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                    <div class="portfolio-boxarea2 click-here">
+                      <div class="img1">
+                        <a href="#">
+                          <img src="assets/img/all-images/portfolio/im8.png" alt="">
+                        </a>
+                      </div>
+                      <div class="space24"></div>
+                      <a href="javascript:void(0)">Harnix Dashboard</a>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1100">
+                    <div class="portfolio-boxarea click-here">
+                      <div class="img1">
+                        <a href="javascript:void(0)">
+                          <img src="assets/img/all-images/portfolio/im8.png" alt="">
+                        </a>
+                      </div>
+                      <div class="space24"></div>
+                      <a href="javascript:void(0)">Benin Cargo</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--===== PORTFOLIO AREA ENDS =======-->
+            <!-- <div class="portfolio-section-area">
               <div class="container">
                 <div class="row">
                   <div class="col-lg-12">
@@ -424,8 +502,7 @@
                   </div>
                 </div>
               </div>
-            </div>
-            <!--===== PORTFOLIO AREA ENDS =======-->
+            </div> -->
           </div>
           <div class="space30"></div>
           <div id="list-item-6">
@@ -437,9 +514,9 @@
                     <div class="testimonial-header heading1">
                       <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Testimonial</h5>
                       <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">What Client Says </h2>
+                      <h2 data-aos="fade-left" data-aos-duration="1000">Ce que les clients pensent</h2>
                       <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">About <span>  My Work</span></h2>
+                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">A propos <span>de mon travail</span></h2>
                     </div>
                     <div class="space60"></div>
                   </div>
@@ -458,15 +535,15 @@
                         </svg>
                       </div>
                       <div class="space20"></div>
-                      <p>"Working with Alex was a game-changer for our brand. Their attention to detail and focus on creating a seamless user experience truly transformed our website. We’ve seen an incredible boost in user engagement and satisfaction."</p>
+                      <p>"Travailler avec Esméralda a révolutionné notre marque. Leur souci du détail et leur volonté de créer une expérience utilisateur fluide ont véritablement transformé notre site web. Nous avons constaté une augmentation incroyable de l'engagement et de la satisfaction des utilisateurs."</p>
                       <div class="space24"></div>
                       <div class="mans-area">
                         <div class="man">
                           <img src="assets/img/all-images/testimonials/tesi-img1.png" alt="">
                         </div>
                         <div class="content">
-                          <a href="#">David Elson</a>
-                          <p>Ezhe Source</p>
+                          <a href="#">Stéphane GNACADJA</a>
+                          <p>Harnix CEO</p>
                         </div>
                       </div>
                     </div>
@@ -486,15 +563,15 @@
                         </svg>
                       </div>
                       <div class="space20"></div>
-                      <p>"Alex exceeded all expectations with their innovative designs and collaborative approach. Reality that perfectly resonates with our audience."</p>
+                      <p>"Esméralda a dépassé toutes les attentes grâce à ses designs innovants et son approche collaborative. Une réalité qui a parfaitement résonné auprès de notre public."</p>
                       <div class="space24"></div>
                       <div class="mans-area">
                         <div class="man">
                           <img src="assets/img/all-images/testimonials/tesi-img2.png" alt="">
                         </div>
                         <div class="content">
-                          <a href="#">Chris Glasser</a>
-                          <p>Auto Works</p>
+                          <a href="#">Julian ADJIBI</a>
+                          <p>CEO Locapay</p>
                         </div>
                       </div>
                     </div>
@@ -515,15 +592,15 @@
                         </svg>
                       </div>
                       <div class="space20"></div>
-                      <p>The designs delivered by [Your Name] were intuitive and engaging, making a significant difference in how users interacted with our platform."</p>
+                      <p>"Collaborer avec Esméralda à été un grand plaisir pour moi, très bonne communication entre dev Front et Back"</p>
                       <div class="space24"></div>
                       <div class="mans-area">
                         <div class="man">
                           <img src="assets/img/all-images/testimonials/tesi-img3.png" alt="">
                         </div>
                         <div class="content">
-                          <a href="#">Rodger Struck</a>
-                          <p>Specialty Restaurant Group</p>
+                          <a href="#">Fawase DOHOU</a>
+                          <p>Développeur fullStack</p>
                         </div>
                       </div>
                     </div>
@@ -543,15 +620,15 @@
                         </svg>
                       </div>
                       <div class="space20"></div>
-                      <p>"From wireframes to the final product, Alex brought creativity and functionality together beautifully. The final design not only looks fantastic but also works flawlessly across devices." </p>
+                      <p>"Des wireframes au produit final, Esméralda a su allier créativité et fonctionnalité à la perfection. Le design final est non seulement superbe, mais fonctionne également parfaitement sur tous les appareils." </p>
                       <div class="space24"></div>
                       <div class="mans-area">
                         <div class="man">
                           <img src="assets/img/all-images/testimonials/tesi-img3.png" alt="">
                         </div>
                         <div class="content">
-                          <a href="#">Mary Freund</a>
-                          <p>Rink's</p>
+                          <a href="#">Anonyme</a>
+                          <p>...</p>
                         </div>
                       </div>
                     </div>
@@ -571,15 +648,15 @@
                     <div class="blog-header heading1">
                       <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Our Blog</h5>
                       <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">Our Latest Blog Idea </h2>
+                      <h2 data-aos="fade-left" data-aos-duration="1000">Mes design </h2>
                       <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1200">UI/UX <span>Trends</span></h2>
+                      <h2 class="head" data-aos="fade-left" data-aos-duration="1200">UI/UX <span>Tendances</span></h2>
                       <div class="space60"></div>
                       <div class="row">
                         <div class="col-lg-6 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
-                             <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img1.png" alt=""></a>
+                             <a href="blog-single.php"> <img src="assets/img/all-images/blog/web1.jpg" alt=""></a>
                             </div>
                             <div class="content-area">
                               <ul>
@@ -587,10 +664,10 @@
                                 <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
                               </ul>
                               <div class="space16"></div>
-                              <a href="blog-single.php">Behind the Pixels: My Favorite Design Projects</a>
+                              <a href="blog-single.php">Derrière les pixels : mes personnel design préférés</a>
                               <div class="space16"></div>
                               <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
+                                <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="">Esméralda</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
@@ -599,7 +676,7 @@
                         <div class="col-lg-6 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
-                              <a href="blog-single.php"><img src="assets/img/all-images/blog/blog-img2.png" alt=""></a>
+                              <a href="blog-single.php"><img src="assets/img/all-images/blog/lo2.png" alt=""></a>
                             </div>
                             <div class="content-area">
                               <ul>
@@ -607,10 +684,31 @@
                                 <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
                               </ul>
                               <div class="space16"></div>
-                              <a href="blog-single.php">Crafting Seamless Experiences: My UI/UX Design Philosophy</a>
+                              <a href="blog-single.php">Création Affiche</a>
                               <div class="space16"></div>
                               <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
+                                <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="">Esméralda</a></li>
+                                <li><a href="#"><i class="fa-regular fa-calendar"></i>Avril 02, 2025 </a></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="col-lg-6 col-md-6">
+                          <div class="blog-boxarea">
+                            <div class="img1 reveal">
+                             <a href="blog-single.php"> <img src="assets/img/all-images/blog/brand1.png" alt=""></a>
+                            </div>
+                            <div class="content-area">
+                              <ul>
+                                <li><a href="#">UI/UX</a></li>
+                                <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
+                              </ul>
+                              <div class="space16"></div>
+                              <a href="blog-single.php">Branding: Une de mes créations</a>
+                              <div class="space16"></div>
+                              <ul>
+                               <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="">Esméralda</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
@@ -620,7 +718,7 @@
                         <div class="col-lg-6 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
-                             <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img3.png" alt=""></a>
+                              <a href="blog-single.php"><img src="assets/img/all-images/blog/lo1.png" alt=""></a>
                             </div>
                             <div class="content-area">
                               <ul>
@@ -628,31 +726,11 @@
                                 <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
                               </ul>
                               <div class="space16"></div>
-                              <a href="blog-single.php">Staying Ahead: Trends Shaping UI/UX in 2024</a>
+                              <a href="blog-single.php">Conception affiche</a>
                               <div class="space16"></div>
                               <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
-                                <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div class="col-lg-6 col-md-6">
-                          <div class="blog-boxarea">
-                            <div class="img1 reveal">
-                              <a href="blog-single.php"><img src="assets/img/all-images/blog/blog-img4.png" alt=""></a>
-                            </div>
-                            <div class="content-area">
-                              <ul>
-                                <li><a href="#">UI/UX</a></li>
-                                <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
-                              </ul>
-                              <div class="space16"></div>
-                              <a href="blog-single.php">From Concept to Reality: My Design Process</a>
-                              <div class="space16"></div>
-                              <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
+                                                              
+                            <li><a href="#"><img src="assets/img/all-images/hero/profile.jpeg" alt="">Esméralda</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
@@ -696,11 +774,11 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="contact-heading heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Contact Me</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Me contacter</h5>
                       <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">Have Any Project in</h2>
+                      <h2 data-aos="fade-left" data-aos-duration="1000">Avez-vous un projet en</h2>
                       <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Mind, <span>Lets Talk</span></h2>
+                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Tete, <span>Parlons-en</span></h2>
                     </div>
                     <div class="space50"></div>
                     <div class="contact-boxarea" data-aos="zoom-in" data-aos-duration="1000">
@@ -742,7 +820,7 @@
 
                         <div class="col-lg-12">
                           <div class="input-area">
-                           <button type="submit" class="vl-btn1">Send <img src="assets/img/icons/mail1.svg" alt=""></button>
+                           <button type="submit" class="vl-btn1">Envoyer <img src="assets/img/icons/mail1.svg" alt=""></button>
                           </div>
                         </div>
                       </div>
@@ -753,9 +831,9 @@
                     <div class="space50"></div>
                     <div class="footer-area">
                       <div class="btn-area1">
-                        <a href="index1.php"><img src="assets/img/logo/logo1.png" alt=""></a>
+                        <a href="index1.php"><img src="assets/img/logo/black.png" alt=""></a>
                       </div>
-                      <p>© 2024 OVRO. All Rights Reserved.</p>
+                      <p>© 2025 Esméralda AGBESSY. Tout droits réservé.</p>
                     </div>
                   </div>
                 </div>
