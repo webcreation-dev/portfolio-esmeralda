@@ -60,7 +60,7 @@
           <!--===== HERO AREA STARTS =======-->
           <div id="list-item-1">
             <div class="hero-heading-area heading1">
-              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/logo/black.png" alt="">Salut, je suis Esméralda AGBESSY </h5>
+              <h5 data-aos="fade-left" data-aos-duration="800">Salut, je suis Esméralda AGBESSY </h5>
               <div class="space24"></div>
               <h1 data-aos="fade-left" data-aos-duration="900">Développeur Frontend </h1>
               <div class="space24"></div>
