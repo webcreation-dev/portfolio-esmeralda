@@ -62,7 +62,7 @@
             <div class="hero-heading-area heading1">
               <h5 data-aos="fade-left" data-aos-duration="800">Salut, je suis Esméralda AGBESSY </h5>
               <div class="space24"></div>
-              <h1 data-aos="fade-left" data-aos-duration="500">Développeur Frontend </h1>
+              <h1 data-aos="fade-left" data-aos-duration="900">Développeur Frontend </h1>
               <div class="space24"></div>
               <h1 class="head" data-aos="fade-left" data-aos-duration="1000">& UI/UX  <span>Designer</span></h1>
               <div class="space24"></div>
@@ -181,6 +181,25 @@
                       <h4><a href="#">Développeur frontEnd</a></h4>
                       <div class="space16"></div>
                       <p>Harnix</p>
+
+                      <a href="#">Mai 2025-Juillet 2025</a>
+                      <div class="space16"></div>
+                      <h4><a href="#">Développeur frontEnd</a></h4>
+                      <div class="space16"></div>
+                      <p>Freelance-Création de site pour la location de bien immobilier</p>
+
+                      <a href="#">Septembre 2025</a>
+                      <div class="space16"></div>
+                      <h4><a href="#">Développeur frontEnd</a></h4>
+                      <div class="space16"></div>
+                      <p>Freelance-Création du site Web CHU-ANGRE</p>
+
+                      <a href="#">Mai 2025 à aujourdh'ui</a>
+                      <div class="space16"></div>
+                      <h4><a href="#">Développeur frontEnd</a></h4>
+                      <div class="space16"></div>
+                      <p>Société Africaine des Services</p>
+                      
                     </div>
                     <div class="about-others-box text-center" data-aos="zoom-in" data-aos-duration="1000">
                       <h4>Restez avec moi </h4>
@@ -472,6 +491,178 @@
                       <a href="javascript:void(0)">Benin Cargo</a>
                     </div>
                   </div>
+
+                   <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
+                            <div class="portfolio-boxarea2 click-here">
+                              <div class="img1">
+                                <a href="https://placeito.com" target="_blank" rel="noopener noreferrer">
+                                  <img src="assets/img/all-images/portfolio/placeito.png" alt="Interface Placeito">
+                                </a>
+                              </div>
+                              <div class="space24"></div>
+                              <a href="https://placeito.com" target="_blank" rel="noopener noreferrer">
+                                Interface Placeito – Site web de vente de biens immobiliers
+                              </a>
+                            </div>
+                          </div>
+
+
+                    <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
+                      <div class="portfolio-boxarea2 click-here">
+                        <div class="img1">
+                          
+                          <a href="https://bdd-web-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
+                            <img src="assets/img/all-images/portfolio/bdd.png" alt="Interface web de site d'interprobabilité">
+                          </a>
+                        </div>
+                        <div class="space24"></div>
+                        <a href="https://bdd-web-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
+                          Interface web de site d'interprobabilité
+                        </a>
+                      </div>
+                    </div>
+
+
+                   <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
+                    <div class="portfolio-boxarea2 click-here">
+                      <div class="img1">
+                      
+                        <a href="https://sas-web-puce.vercel.app/" target="_blank" rel="noopener noreferrer">
+                          <img src="assets/img/all-images/portfolio/sas1.png" alt="Site web Société Africaine des services">
+                          <img src="assets/img/all-images/portfolio/sas2.png" alt="Site web Société Africaine des services">
+                          <img src="assets/img/all-images/portfolio/sas3.png" alt="Site web Société Africaine des services">
+
+                        </a>
+                      </div>
+                      <div class="space24"></div>
+                      <a href="https://sas-web-puce.vercel.app/" target="_blank" rel="noopener noreferrer">
+                        Site web Société Africaine des services
+                      </a>
+                    </div>
+                  </div>
+
+
+                   <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
+                        <div class="portfolio-boxarea2 click-here">
+                          <!-- Images d'aperçu -->
+                          <div class="img1">
+                            <a href="https://futuristic-app-nine.vercel.app/" target="_blank" rel="noopener noreferrer">
+                              <img src="assets/img/all-images/portfolio/f1s1.png" alt="Challenge Figma to Code - Semaine 1">
+                              
+                            </a>
+                          </div>
+                          <div class="space24"></div>
+
+                          <!-- Liens vers Figma et rendu -->
+                          <p>
+                            🔗 <a href="https://www.figma.com/design/3xwYqxhJkfVyqwJ82iYJeZ/Challenge-FtoC?node-id=0-1&p=f&t=uZczipxB0XzDWZ95-0" target="_blank" rel="noopener noreferrer">Voir la maquette Figma</a><br>
+                            🔗 <a href="https://futuristic-app-nine.vercel.app/" target="_blank" rel="noopener noreferrer">Voir mon rendu</a>
+                          </p>
+
+                          <!-- Galerie d'images supplémentaires -->
+                          <div class="preview-gallery">
+                            <img src="assets/img/all-images/portfolio/f2s1.png" alt="Aperçu 1">
+                            <img src="assets/img/all-images/portfolio/f3s2.png" alt="Aperçu 2">
+                      
+                          </div>
+
+                          <div class="space24"></div>
+                          <h4>Challenge Figma to Code - Semaine 1</h4>
+                        </div>
+                      </div>
+
+
+                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
+                      <div class="portfolio-boxarea2 click-here">
+                        <!-- Images d'aperçu -->
+                        <div class="img1">
+                          <a href="https://spendin-dun.vercel.app/" target="_blank" rel="noopener noreferrer">
+                            <img src="assets/img/all-images/portfolio/f1s2.png" alt="Challenge Figma to Code - Semaine 2">
+                          </a>
+                        </div>
+                        <div class="space24"></div>
+
+                        <!-- Liens vers Figma et rendu -->
+                        <p>
+                          🔗 <a href="https://www.figma.com/design/HSh6lWKt03DkMpZX5HRpg2/Good-inspiration-Week-2?node-id=2-5&p=f&t=WDAeyEzIrPvfh6qr-0" target="_blank" rel="noopener noreferrer">Voir la maquette Figma</a><br>
+                          🔗 <a href="https://spendin-dun.vercel.app/" target="_blank" rel="noopener noreferrer">Voir mon rendu</a>
+                        </p>
+
+                        <!-- Galerie d'images supplémentaires -->
+                        <div class="preview-gallery">
+                          <img src="assets/img/all-images/portfolio/f2s2.png" alt="Aperçu 1">
+                          <img src="assets/img/all-images/portfolio/f3s2.png" alt="Aperçu 2">
+                       
+                        </div>
+
+                        <div class="space24"></div>
+                        <h4>Challenge Figma to Code - Semaine 2</h4>
+                      </div>
+                    </div>
+
+                    <section id="training-projects" class="portfolio-section">
+                      <div class="container">
+                        <h2 class="section-title">Entraînements & Challenges Perso</h2>
+                        <div class="row">
+                          
+                          <!-- Projet Challenge Figma to Code -->
+                          <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
+                            <div class="portfolio-boxarea2 click-here">
+                              <!-- Image principale -->
+                              <div class="img1">
+                                <a href="https://bibliotheque-five.vercel.app/" target="_blank" rel="noopener noreferrer">
+                                  <img src="assets/img/all-images/portfolio/bibli1.png" alt="Site bibliotheque">
+                                </a>
+                              </div>
+                              <div class="space24"></div>
+
+                              <!-- Lien rendu uniquement -->
+                              <p>
+                                🔗 <a href="https://bibliotheque-five.vercel.app/" target="_blank" rel="noopener noreferrer">Voir mon rendu</a>
+                              </p>
+
+                              <!-- Galerie -->
+                              <div class="preview-gallery">
+                                <img src="assets/img/all-images/portfolio/bibli2.png" alt="Aperçu 1">
+                               
+                              </div>
+
+                              <div class="space24"></div>
+                              <h4>Site web de bibliothèque</h4>
+                            </div>
+                          </div>
+
+                           <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
+                            <div class="portfolio-boxarea2 click-here">
+                              <!-- Image principale -->
+                              <div class="img1">
+                                <a href="https://game-center-tau.vercel.app/" target="_blank" rel="noopener noreferrer">
+                                  <img src="assets/img/all-images/portfolio/ga1.png" alt="Site d'art">
+                                </a>
+                              </div>
+                              <div class="space24"></div>
+
+                              <!-- Lien rendu uniquement -->
+                              <p>
+                                🔗 <a href="https://game-center-tau.vercel.app/" target="_blank" rel="noopener noreferrer">Voir mon rendu</a>
+                              </p>
+
+                              <!-- Galerie -->
+                              <div class="preview-gallery">
+                                <img src="assets/img/all-images/portfolio/ga2.png" alt="Aperçu 1">
+                                <img src="assets/img/all-images/portfolio/ga3.png" alt="Aperçu 1">
+                               
+                              </div>
+
+                              <div class="space24"></div>
+                              <h4>Site NFT's</h4>
+                            </div>
+                          </div>
+
+                        </div>
+                      </div>
+                    </section>
+
                 </div>
               </div>
             </div>
