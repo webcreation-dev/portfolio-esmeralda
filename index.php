@@ -602,7 +602,9 @@
 
                     <section id="training-projects" class="portfolio-section">
                       <div class="container">
-                        <h2 class="section-title">Entraînements & Challenges Perso</h2>
+                       <div class="space24 text-white"></div>
+                        <h1>Entrainement & projet perso</h1>
+                      </div>
                         <div class="row">
                           
                           <!-- Projet Challenge Figma to Code -->
@@ -803,6 +805,7 @@
             </div>
             <!--===== TESTIMONIAL AREA ENDS =======-->
           </div>
+          
           <div class="space30"></div>
           <div id="list-item-7">
             <!--===== BLOG AREA STARTS =======-->
